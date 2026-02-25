@@ -10,14 +10,14 @@ Tenho interesse em aprofundar meus conhecimentos em desenvolvimento de APIs, ban
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/samueelDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/samueelDev?color=55960c&labelColor=488207&style=for-the-badge&logo=star&logoColor=white&label=Estrelas"
         />
     </a>
     <a href="https://github.com/samueelDev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/samueelDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/samueelDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white&label=Seguidores"
         />
     </a>
 </p>
