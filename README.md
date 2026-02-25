@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-End`**
 
 Me chamo Samueel, tenho 18 anos e sou estudante de programação com foco em Back-end. Atualmente estudo Python e venho desenvolvendo minha lógica, organização de código e boas práticas de programação.
-Tenho interesse em aprofundar meus conhecimentos em desenvolvimento de APIs, banco de dados e arquitetura de sistemas. Futuramente, pretendo aprender C#, Java e MySQL para expandir minhas habilidades e me tornar um desenvolvedor cada vez mais completo. Sou dedicado, curioso e estou sempre buscando evoluir, resolver problemas e transformar ideias em código. 🚀
+Tenho interesse em aprofundar meus conhecimentos em desenvolvimento de APIs, banco de dados e arquitetura de sistemas. Futuramente, pretendo aprender C#, C++, Java e MySQL para expandir minhas habilidades e me tornar um desenvolvedor cada vez mais completo. Sou dedicado, curioso e estou sempre buscando evoluir, resolver problemas e transformar ideias em código. 🚀
     
   </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
@@ -42,6 +42,15 @@ Tenho interesse em aprofundar meus conhecimentos em desenvolvimento de APIs, ban
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+/>
+
+<img 
+  align="left"
+  alt="C++"
+  title="C++"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
 />
 
 <img 
